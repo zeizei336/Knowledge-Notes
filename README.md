@@ -1,4 +1,4 @@
-<h1 align="center">📔 皓清的技术笔记</h1>
+<h1 align="center">📔 技术笔记</h1>
 <div align="left">
 <p><strong>Linux技术爱好者，天道酬勤，厚积薄发。<strong></p>
     </div> 
@@ -113,17 +113,9 @@
 - ***God helps those who help themselves.***
 
 
-
-### 🎅咨询交流
-
-- ***QQ : 970407688***
-- ***Email : haoqingboy@163.com***
-
-
-
 ### 🍖  友情赞助
 
-- ***Alipay : 970407688@qq.com***
+
 
 
 
